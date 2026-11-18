@@ -1,2 +1,1 @@
-hello, world
-строчка
+hello from conflict_branch
